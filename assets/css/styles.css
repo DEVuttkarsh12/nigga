@@ -948,6 +948,7 @@ textarea.input {
 
 .lo {
   height: 20px !important;
+  display: none;
   width: 20px !important;
   margin-top: 20px !important;
 }
