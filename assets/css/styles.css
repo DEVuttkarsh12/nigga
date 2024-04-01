@@ -93,7 +93,7 @@ img {
 .ok {
   height: 20px;
   width: 20px;
-  margin-top: 34px;
+  margin-top: 50px;
 }
 
 /*===== CLASS CSS ===== */
@@ -951,4 +951,11 @@ textarea.input {
   display: none;
   width: 20px !important;
   margin-top: 20px !important;
+}
+
+.ok {
+  height: 20px;
+  width: 20px;
+  margin-top: 50px;
+  display: none;
 }
